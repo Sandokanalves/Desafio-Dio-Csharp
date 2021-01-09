@@ -1,0 +1,16 @@
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\Mandioca.exe
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\Mandioca.deps.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\Mandioca.runtimeconfig.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\Mandioca.runtimeconfig.dev.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\Mandioca.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\ref\Mandioca.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\bin\Debug\net5.0\Mandioca.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.csprojAssemblyReference.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.AssemblyInfoInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.AssemblyInfo.cs
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.csproj.CoreCompileInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\ref\Mandioca.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Quanta Mandioca\Mandioca\obj\Debug\net5.0\Mandioca.genruntimeconfig.cache

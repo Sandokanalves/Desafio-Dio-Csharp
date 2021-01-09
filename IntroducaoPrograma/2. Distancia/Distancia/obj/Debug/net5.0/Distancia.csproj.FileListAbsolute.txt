@@ -1,0 +1,16 @@
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\Distancia.exe
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\Distancia.deps.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.dev.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\Distancia.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\ref\Distancia.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\bin\Debug\net5.0\Distancia.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.csprojAssemblyReference.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfoInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfo.cs
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.csproj.CoreCompileInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\ref\Distancia.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\SANDPKAN\CURSO DE PROGRAMACAO\Decolar avanade\C#\Pratica\Desafio-Dio-C#\Introdução a Programação\Distancia\Distancia\obj\Debug\net5.0\Distancia.genruntimeconfig.cache
